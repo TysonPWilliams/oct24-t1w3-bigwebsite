@@ -1,0 +1,15 @@
+:root {
+    --sky-blue: #8ecae6ff;
+    --blue-green: #219ebcff;
+    --prussian-blue: #023047ff;
+    --selective-yellow: #ffb703ff;
+    --ut-orange: #fb8500ff;
+}
+
+h1 {
+    background-color: var(--blue-green)
+}
+
+
+
+
